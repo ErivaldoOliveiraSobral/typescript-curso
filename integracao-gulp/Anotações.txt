@@ -1,0 +1,8 @@
+Dependências
+npm i --save-dev gulp typescript browserify tsify vinyl-source-stream del
+
+Jquery como exemplo
+npm i --save-dev jquery @types/jquery
+
+Minificar
+npm i --save-dev gulp-uglify gulp-rename
